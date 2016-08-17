@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{A48AB81C-78B7-F36B-34EB-922512EE5BEF}") = "NightmareFlesh-Stack", "Assembly-CSharp-firstpass.csproj", "{712F8065-F5C9-0CC6-9C18-DC6FF743DAAF}"
 EndProject
+Project("{A48AB81C-78B7-F36B-34EB-922512EE5BEF}") = "NightmareFlesh-Stack", "Assembly-CSharp.csproj", "{734360E5-9D5D-8733-7217-D85A3AD6600A}"
+EndProject
 Project("{A48AB81C-78B7-F36B-34EB-922512EE5BEF}") = "NightmareFlesh-Stack", "Assembly-CSharp-Editor.csproj", "{145DF571-1B1A-04EB-C51F-12765C628E1A}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{712F8065-F5C9-0CC6-9C18-DC6FF743DAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{712F8065-F5C9-0CC6-9C18-DC6FF743DAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{712F8065-F5C9-0CC6-9C18-DC6FF743DAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{734360E5-9D5D-8733-7217-D85A3AD6600A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{734360E5-9D5D-8733-7217-D85A3AD6600A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{734360E5-9D5D-8733-7217-D85A3AD6600A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{734360E5-9D5D-8733-7217-D85A3AD6600A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{145DF571-1B1A-04EB-C51F-12765C628E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{145DF571-1B1A-04EB-C51F-12765C628E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{145DF571-1B1A-04EB-C51F-12765C628E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
