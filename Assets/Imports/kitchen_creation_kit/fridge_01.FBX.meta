@@ -3,8 +3,19 @@ guid: 8856dbe0a9879694f8c375c54b52101d
 ModelImporter:
   serializedVersion: 19
   fileIDToRecycleName:
+    100000: //RootNode
+    100002: port_frigo
+    400000: //RootNode
+    400002: port_frigo
+    2300000: //RootNode
+    2300002: port_frigo
+    3300000: //RootNode
+    3300002: port_frigo
     4300000: fridge_01
     4300002: port_frigo
+    7400000: open
+    7400002: close
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 3
