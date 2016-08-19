@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class Enemy_Health : MonoBehaviour 
+public class Player_Health : MonoBehaviour 
 {
 
 
